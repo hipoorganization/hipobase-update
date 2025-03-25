@@ -1,8 +1,0 @@
-version: 1.0.0
-files:
-  - url: HipoBase-1.0.0-arm64.dmg
-    sha512: 0VLIXYpsGYAlf2ImucOW9oWT1Yub5zbkXTSuYn5EsI4Jt0v2zSPip7FZcPR/MR190A+hklHPdq0iE5zxZJF2hg==
-    size: 106323216
-path: HipoBase-1.0.0-arm64.dmg
-sha512: 0VLIXYpsGYAlf2ImucOW9oWT1Yub5zbkXTSuYn5EsI4Jt0v2zSPip7FZcPR/MR190A+hklHPdq0iE5zxZJF2hg==
-releaseDate: '2025-03-25T03:07:25.565Z'
